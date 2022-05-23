@@ -1,6 +1,6 @@
 {
-  "name": "@dansmaculotte/nuxt-segment",
-  "version": "0.2.11",
+  "name": "@szymonczy/nuxt-segment",
+  "version": "0.2.11-allowchangingsrc",
   "description": "Nuxt.js module for Segment Analytics.js",
   "license": "MIT",
   "contributors": [
@@ -14,7 +14,7 @@
     }
   ],
   "main": "lib/module.js",
-  "repository": "https://github.com/dansmaculotte/nuxt-segment",
+  "repository": "https://github.com/szymonczy/nuxt-segment",
   "publishConfig": {
     "access": "public"
   },
@@ -28,7 +28,7 @@
     "lib"
   ],
   "dependencies": {
-    "@dansmaculotte/vue-segment": "^0.2.9"
+    "@szymonczy/vue-segment": "^0.2.9-allowchangingsrc"
   },
   "devDependencies": {
     "@babel/core": "latest",
